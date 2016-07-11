@@ -8,7 +8,7 @@ In Reply Refer To: ID09160058
 From: Renee Hicks, Senior Contracting Officer, GSA, Federal Acquisition
 Service\
 Subject: Request for Quotation (RFQ)\
-Reply By: *\[Insert Date, time, time zone\]\
+Reply By: July 25, 2016 at 6:00pm (EDT)\
 \
 *To: Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
 
@@ -46,8 +46,8 @@ of the RFQ for further details):
 > presentations.
 
 Questions or comments regarding this RFQ shall be submitted as issues
-within the GitHuB repository at https://github.com/18F/\[insert link\]
-no later than \[date\] at \[time, time zone\], to allow the Government
+within the GitHuB repository at https://github.com/18F/bpa-DOL-WHD-14-c-/
+no later than July 18, 2016 at 6:00pm (EDT), to allow the Government
 sufficient time to respond. All questions and comments will be publicly
 available. Please subscribe to the repository if your firm would like
 updates about changes and comments. Questions or comments received after
